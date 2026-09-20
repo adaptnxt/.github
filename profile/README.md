@@ -70,7 +70,27 @@ We build and open-source lightweight, production-tested utility libraries for th
 
 ---
 
+## 🎮 Live Interactive Playgrounds & AI Sandboxes
+
+Experience AdaptNXT's Computer Vision and AI models directly in your browser with zero setup or installation:
+
+| Interactive Sandbox | Live Application | Domain & Technology |
+| :--- | :--- | :--- |
+| 👁️ **Retail Theft & Loss Prevention** | [**Launch Live Demo →**](https://www.adaptnxt.com/playground/retail-theft) | Biomechanical pose estimation, reach-and-conceal AI |
+| 🛡️ **Industrial Safety & Aggression Detection** | [**Launch Live Demo →**](https://www.adaptnxt.com/playground/security-aggression) | Real-time pose analysis & factory violence prevention |
+| 🚗 **Driver Fatigue & Drowsiness Monitor** | [**Launch Live Demo →**](https://www.adaptnxt.com/playground/drowsiness-detector) | Edge facial landmark tracking & micro-sleep alerting |
+| 📄 **Zero-Template Visual Invoice Parser** | [**Launch Live Demo →**](https://www.adaptnxt.com/playground/invoice-parser) | LayoutLM document AI for accounts payable |
+| 🚆 **Railway Wagon Door State Detection** | [**Launch Live Demo →**](https://www.adaptnxt.com/playground/wagon-door-detection) | Cargo security & real-time rolling stock inspection |
+| 🏭 **Interactive OEE Calculator** | [**Open Calculator →**](https://www.adaptnxt.com/tools/oee-calculator) | Manufacturing availability, performance & scrap simulator |
+| 🔍 **Video & Audio Semantic Search Engine** | [**Launch Live Demo →**](https://www.adaptnxt.com/playground/video-audio-search) | Natural language search across video frames & sound events |
+| 🩺 **ABDM Compliance Interactive Demo** | [**Explore Sandbox →**](https://www.adaptnxt.com/solutions/abdm-compliance) | Live walkthrough of ABHA creation & FHIR R4 bundling |
+
+👉 **[Explore All 10+ Live Sandboxes in the AdaptNXT Playground Hub](https://www.adaptnxt.com/playground)**
+
+---
+
 ## 🌐 Selected Case Studies
+
 
 * **Railway Safety & Locomotive Systems**: Driver Display Unit (DDU) modernization with embedded Qt/C++ and real-time Hot Axle Box thermal monitoring ([Read Case Study](https://www.adaptnxt.com/casestudies/driver-display-unit-ddu-railway-qt)).
 * **Factory Floor Safety & Computer Vision**: AI smart camera sentinel for zone intrusion prevention and automated machinery cut-off ([Read Case Study](https://www.adaptnxt.com/casestudies/smart-ai-camera-intrusion-detection-tara)).
