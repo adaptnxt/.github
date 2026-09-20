@@ -2,7 +2,7 @@
 
 # AdaptNXT Technology Solutions
 
-### Production-Ready Edge AI, Computer Vision, Industrial IoT & MedTech Engineering
+### Edge AI, Computer Vision, Industrial IoT & Custom Software Engineering
 
 [![Website](https://img.shields.io/badge/Website-adaptnxt.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.adaptnxt.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AdaptNXT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/adaptnxt)
@@ -11,7 +11,7 @@
 
 <br/>
 
-**AdaptNXT** is a specialized engineering consulting lab helping engineering and product leaders turn complex hardware telemetry, high-speed camera streams, and proprietary enterprise data into production-grade automation systems.
+**AdaptNXT** builds custom software, AI, and IoT solutions. These repositories share open-source reference starter kits and developer templates from our areas of engineering interest. Each project documents what works, what is simulated, and what remains to be validated for production. For commercial engagements, security controls, architecture, third-party licensing, and acceptance criteria are agreed upon separately.
 
 [Explore Solutions](https://www.adaptnxt.com/services) • [Case Studies](https://www.adaptnxt.com/casestudies) • [Technical Blogs](https://www.adaptnxt.com/blog) • [Contact Engineering](https://www.adaptnxt.com/contact)
 
@@ -46,21 +46,21 @@ Device-to-cloud telemetry architectures designed for resilience across intermitt
 * **TinyML & Vibration Analytics**: High-frequency FFT vibration anomaly detection under 256KB RAM on ARM Cortex-M microcontrollers.
 
 ### 3. [Generative AI & Agentic Enterprise Systems](https://www.adaptnxt.com/generative-ai-development-company)
-Privacy-first LLM applications operating securely within customer-isolated cloud VPCs.
+Privacy-first LLM applications operating securely within customer-isolated cloud environments.
 * **Multi-Agent Support Orchestration**: Deterministic ticket routing with LangGraph and CrewAI state graphs.
-* **AWS Bedrock VPC RAG**: Air-gapped retrieval-augmented generation connected to SharePoint, PostgreSQL (PGVector), and Pinecone.
-* **Open-Source LLM Serving**: Self-hosted vLLM inference for Llama 3.3, DeepSeek R1, and Mistral with zero data leakage.
+* **AWS Bedrock VPC RAG**: Retrieval-augmented generation with private VPC endpoints to AWS Bedrock and PostgreSQL (pgvector).
+* **Open-Source LLM Serving**: Self-hosted vLLM inference for Llama, DeepSeek, and Mistral with enterprise network isolation.
 
 ### 4. [Healthcare & MedTech Compliance](https://www.adaptnxt.com/healthcare-ai-solutions)
-HIPAA and Indian DPDP Act compliant medical software engineering.
-* **Ayushman Bharat Digital Mission (ABDM)**: Turnkey Milestone 1 (ABHA creation), Milestone 2 (HIP care context discovery & linking), and Milestone 3 (Consent Manager).
+HIPAA and Indian DPDP Act aligned medical software engineering.
+* **Ayushman Bharat Digital Mission (ABDM)**: Milestone 1 (ABHA creation), Milestone 2 (HIP care context discovery & linking), and Milestone 3 (Consent Manager) workflows.
 * **HL7 FHIR R4 Bundles**: Structured transformation of clinical OPD consultations, lab panels, and discharge summaries conforming to NRCES standards.
 
 ---
 
-## 🛠️ Featured Open-Source Developer Tools
+## 🛠️ Featured Open-Source Developer Tools & Starters
 
-We build and open-source lightweight, production-tested utility libraries for the developer and hardware engineering community:
+We build and open-source lightweight developer templates and reference starter kits for the engineering community:
 
 | Repository | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
@@ -108,7 +108,7 @@ We work with enterprise R&D teams, high-growth hardware startups, and SaaS platf
 
 * **Proof-of-Concept (PoC)**: 4–8 weeks to validate complex computer vision or hardware feasibility.
 * **Production MVP Delivery**: 8–16 weeks for end-to-end cloud, firmware, and software delivery.
-* **Client IP Ownership**: 100% of all software source code, PCB schematics, and model weights are owned exclusively by the client upon project completion.
+* **Client IP Ownership**: Commercial deliverables (source code, schematics, and custom model weights) are owned by the client upon project completion as governed by agreement.
 
 ---
 
